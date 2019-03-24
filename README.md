@@ -1,0 +1,2 @@
+# yus
+file.js
